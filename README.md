@@ -2,6 +2,7 @@
 
 This is an example timer macro for RoomOS Devices which enables a user to enter custom timer values or select from a configurable range of preset timer values.
 
+![download (76)](https://github.com/user-attachments/assets/e7e71734-6ac0-4502-abc3-04223c401a5a)
 
 ## Overview
 
